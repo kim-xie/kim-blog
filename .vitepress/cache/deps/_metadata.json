@@ -1,0 +1,44 @@
+{
+  "hash": "cd98ea82",
+  "browserHash": "684eaeb1",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/.pnpm/vue@3.3.4/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "8d93c1ca",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "1c84049b",
+      "needsInterop": false
+    },
+    "html2canvas": {
+      "src": "../../../node_modules/.pnpm/html2canvas@1.4.1/node_modules/html2canvas/dist/html2canvas.esm.js",
+      "file": "html2canvas.js",
+      "fileHash": "602b2ed6",
+      "needsInterop": false
+    },
+    "jspdf": {
+      "src": "../../../node_modules/.pnpm/jspdf@2.5.1/node_modules/jspdf/dist/jspdf.es.min.js",
+      "file": "jspdf.js",
+      "fileHash": "61b18d74",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "purify.es-F2GOTJCS": {
+      "file": "purify__es-F2GOTJCS.js"
+    },
+    "index.es-YVRNXSTM": {
+      "file": "index__es-YVRNXSTM.js"
+    },
+    "chunk-ZLVHVC3F": {
+      "file": "chunk-ZLVHVC3F.js"
+    },
+    "chunk-UXIASGQL": {
+      "file": "chunk-UXIASGQL.js"
+    }
+  }
+}
