@@ -23,29 +23,46 @@
                 <div class="itemContent userInfo">
                   <div class="row">
                     <div class="itemWrap lineHeight">
+                      <span class="itemLabel">姓 名：</span>
                       <span class="itemValue">谢顶金</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">性 别：</span>
                       <span class="itemValue">男</span>
-                      <span class="itemValue">本科</span>
-                      <span class="itemValue">8年经验</span>
-                      <span class="itemValue">前端开发工程师</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">婚 姻：</span>
+                      <span class="itemValue">已婚</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">电 话：</span>
                       <span class="itemValue">18576648902</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">邮 箱：</span>
                       <span class="itemValue">18576648902@163.com</span>
                     </div>
                   </div>
                   <div class="row">
-                    <div class="itemWrap">
-                      <p class="teachItem">
-                        多年前端工作经验，有丰富的项目实战，能快速适应新业务
-                      </p>
-                      <p class="teachItem">
-                        靠谱，追求极致，有较强的自驱力、执行力、责任心
-                      </p>
-                      <p class="teachItem">
-                        持续学习，保持技术敏感度，做事重视细节和结果，乐意接受新挑战
-                      </p>
-                      <p class="teachItem">
-                        有自媒体写作经验(公众号、简书等)，有github开源项目贡献
-                      </p>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">住 址：</span>
+                      <span class="itemValue">深圳宝安</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">工 作：</span>
+                      <span class="itemValue">7年</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">状 态：</span>
+                      <span class="itemValue">离职</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">职 位：</span>
+                      <span class="itemValue">前端开发工程师</span>
+                    </div>
+                    <div class="itemWrap lineHeight">
+                      <span class="itemLabel">学 历：</span>
+                      <span class="itemValue">本科 (2012 - 2016)</span>
                     </div>
                   </div>
                 </div>
@@ -91,49 +108,44 @@
 
           <div class="leftItem">
             <div class="itemTitle">
+              <img class="itemIcon" src="../public/img/pingjia.svg" alt="" />
+              <span>自我评价</span>
+            </div>
+            <div class="itemContent">
+              <p class="teachItem">
+                1、7年前端工作经验，具备较丰富的项目实战经验及良好的编码习惯，熟悉项目开发部署流程，能快速响应需求并上手新项目
+              </p>
+              <p class="teachItem">
+                2、工作态度端正，具备良好的分析问题、解决问题以及团队协作能力，有较强的抗压能力和工作热情，自驱力及责任心强
+              </p>
+              <p class="teachItem">
+                3、关注前端前沿技术，具备良好的学习能力，能够快速学习一门新技术并实践，做事重视细节和结果，愿意接受新挑战
+              </p>
+              <p class="teachItem">
+                4、有公众号、简书(前端进阶体验)，开发过命令行工具等一些npm包，为github开源项目贡献过代码，喜欢尝试新技术
+              </p>
+            </div>
+          </div>
+
+          <div class="leftItem">
+            <div class="itemTitle">
               <img class="itemIcon" src="../public/img/drxx20.svg" alt="" />
               <span>工作经历</span>
             </div>
             <div class="itemContent">
               <div class="oneline">
                 <p class="teachItem">
-                  <span class="itemLabel">健康160</span>
-                  <span class="itemLabel ml-12">大前端研发部</span>
-                  <span class="itemLabel ml-12">web前端开发工程师</span>
-                </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2023/11 ~ 至今</span>
-                </p>
-              </div>
-              <div class="descItem">
-                <div class="itemValue">
-                  <p class="descValue">
-                    1、负责互联网医院B/C端业务需求开发、优化及迭代，团队核心成员，解决团队难题攻坚
-                  </p>
-                  <p class="descValue">
-                    2、主导多项团队技术建设(如多端脚手架，监控告警，容器化部署等)为研发提效和业务赋能
-                  </p>
-                  <p class="descValue">
-                    3、团队贡献方面，担任面试官、新人导师，组织团队活动，文档贡献，技术分享等
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="itemContent">
-              <div class="oneline">
-                <p class="teachItem">
-                  <span class="itemLabel">顺丰科技集团</span>
+                  <span class="itemLabel">2021/03 ~ 2023/05</span>
+                  <span class="itemLabel ml-12">顺丰科技集团</span>
                   <span class="itemLabel ml-12">线上用户增长中心</span>
                   <span class="itemLabel ml-12">高级前端开发工程师</span>
                 </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2021/03 ~ 2023/05</span>
-                </p>
               </div>
               <div class="descItem">
+                <div class="descLabel">工作描述：</div>
                 <div class="itemValue">
                   <p class="descValue">
-                    1、负责toC端小游戏，H5活动，PC管理端，node服务端的业务开发以及日常的迭代升级维护
+                    1、参与toC端小游戏，H5活动，PC管理端，node服务端的业务开发以及日常的迭代升级维护
                   </p>
                   <p class="descValue">
                     2、参与日活超千万的用户运营活动项目前端性能优化工作，参与全站灰度发布方案设计
@@ -159,15 +171,16 @@
             <div class="itemContent">
               <div class="oneline">
                 <p class="teachItem">
-                  <span class="itemLabel">平安智慧城市科技股份有限公司</span>
-                  <span class="itemLabel ml-12">智慧交通事业部</span>
+                  <span class="itemLabel">2019/03 ~ 2021/03</span>
+                  <span class="itemLabel ml-12"
+                    >平安智慧城市科技股份有限公司</span
+                  >
+                  <span class="itemLabel ml-12">智慧交通及社区事业部</span>
                   <span class="itemLabel ml-12">前端开发工程师</span>
-                </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2019/03 ~ 2021/03</span>
                 </p>
               </div>
               <div class="descItem">
+                <div class="descLabel">工作描述：</div>
                 <div class="itemValue">
                   <p class="descValue">
                     1、参与团队产品日常研发，开发涉及PC管理系统、大屏数据可视化、小程序，以及历史项目的迭代优化升级
@@ -185,15 +198,14 @@
             <div class="itemContent lastItem">
               <div class="oneline">
                 <p class="teachItem">
-                  <span class="itemLabel">深圳竹云科技有限公司</span>
+                  <span class="itemLabel">2016/07 ~ 2019/03</span>
+                  <span class="itemLabel ml-12">深圳竹云科技有限公司</span>
                   <span class="itemLabel ml-12">产品研发部</span>
                   <span class="itemLabel ml-12">软件工程师</span>
                 </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2016/07 ~ 2019/03</span>
-                </p>
               </div>
               <div class="descItem">
+                <div class="descLabel">工作描述：</div>
                 <div class="itemValue">
                   <p class="descValue">
                     1、负责公司产品定制化开发，前端开发涉及ui更新、浏览器兼容、响应式、性能优化等，使用java
@@ -221,20 +233,18 @@
             <div class="itemContent">
               <div class="oneline">
                 <p class="teachItem onelineItem">
-                  <span class="itemLabel">顺丰速运用户运营活动</span>
-                </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2021/03 ~ 2023/05</span>
+                  <span class="itemLabel">2021/03 ~ 2023/05</span>
+                  <span class="itemLabel ml-12">顺丰速运用户运营活动</span>
                 </p>
               </div>
               <div class="descItem">
-                <div class="descLabel">简介：</div>
+                <div class="descLabel">项目简介：</div>
                 <div class="itemValue">
                   该项目是顺丰速运应用内部的用户运营活动部分，属于移动端跨端项目，会员数量超2亿，日活超千万。主要业务是散单用户运营相关，目的是从公域流量转化为私域流量，提升用户粘度，促进成交转化
                 </div>
               </div>
               <div class="descItem">
-                <div class="descLabel">职责：</div>
+                <div class="descLabel">工作职责：</div>
                 <div class="itemValue">
                   <p class="descValue">
                     1、参与项目需求评审，工时排期，根据UI进行页面开发、自测，进行code
@@ -252,7 +262,7 @@
                 </div>
               </div>
               <p class="teachItem">
-                <span class="itemLabel">技术：</span>
+                <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
                   react、redux、react-router-cache、axios、lottie、ts、ant-design、webpack、less、nodejs、redis
                 </span>
@@ -262,20 +272,18 @@
             <div class="itemContent">
               <div class="oneline">
                 <p class="teachItem onelineItem">
-                  <span class="itemLabel">前端监控平台</span>
-                </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2022/03 ~ 2023/05</span>
+                  <span class="itemLabel">2022/03 ~ 2023/05</span>
+                  <span class="itemLabel ml-12">前端监控平台</span>
                 </p>
               </div>
               <div class="descItem">
-                <div class="descLabel">简介：</div>
+                <div class="descLabel">项目简介：</div>
                 <div class="itemValue">
                   主要是解决线上问题发现滞后性以及问题定位解决链路复杂，目的是主动监控、提早发现、定位并解决线上问题，对系统的稳定性、业务、用户体验等方面进行监控，方便后续做数据分析与优化
                 </div>
               </div>
               <div class="descItem">
-                <div class="descLabel">职责：</div>
+                <div class="descLabel">工作职责：</div>
                 <div class="itemValue">
                   <p class="descValue">
                     1、参与监控方案的整体设计与技术选型，主导数据采集端SDK的架构设计与全栈开发
@@ -289,7 +297,7 @@
                 </div>
               </div>
               <p class="teachItem">
-                <span class="itemLabel">技术：</span>
+                <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
                   react、fetch、ts、vite、less、nestjs、kafka、kibana、elasticSearch、mongoose
                 </span>
@@ -299,20 +307,18 @@
             <div class="itemContent">
               <div class="oneline">
                 <p class="teachItem onelineItem">
-                  <span class="itemLabel">智慧交通管控系统</span>
-                </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2019/12 ~ 2020/06</span>
+                  <span class="itemLabel">2019/12 ~ 2020/06</span>
+                  <span class="itemLabel ml-12">智慧交通管控系统</span>
                 </p>
               </div>
               <div class="descItem">
-                <div class="descLabel">简介：</div>
+                <div class="descLabel">项目简介：</div>
                 <div class="itemValue">
                   智慧交通管控系统主要是给交警部门提供一系列的城市交通拥堵解决方案。信号优化属于其中一个环节，其主要是对交通路口的时段、信号灯及干道进行协调优化，使多路口之间达到一个最优的可持续通行时间，解决城市道路路口排队拥堵问题。通过地图、图表、图形等可视化技术做到直观的展示信号灯控制效果。最终将优化后的方案下发到信号灯中，系统专注于提升交通部门工作效率
                 </div>
               </div>
               <div class="descItem">
-                <div class="descLabel">职责：</div>
+                <div class="descLabel">工作内容：</div>
                 <div class="itemValue">
                   <p class="descValue">
                     1、运用D3可视化技术实现绿波优化工具、流量图、路口渠化图、配时方案图等重、难点的技术攻克
@@ -326,7 +332,7 @@
                 </div>
               </div>
               <p class="teachItem">
-                <span class="itemLabel">技术：</span>
+                <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
                   react、mobx、react-router、webpack、echart、antv、d3、凯立德地图、websocket、axios、elementui、sass
                 </span>
@@ -335,20 +341,18 @@
             <div class="itemContent">
               <div class="oneline">
                 <p class="teachItem onelineItem">
-                  <span class="itemLabel">随手拍小程序</span>
-                </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2020/04 ~ 2020/08</span>
+                  <span class="itemLabel">2020/04 ~ 2020/08</span>
+                  <span class="itemLabel ml-12">随手拍小程序</span>
                 </p>
               </div>
               <div class="descItem">
-                <div class="descLabel">简介：</div>
+                <div class="descLabel">项目简介：</div>
                 <div class="itemValue">
                   随手拍是交通违法举报的一个toC端应用，包含小程序端和H5端以及后台审核系统，用户可以通过应用端对交通的多种违法行为进行举报，举报成功会有相应的奖励。平台旨在提倡治理文明交通，全民参与
                 </div>
               </div>
               <div class="descItem">
-                <div class="descLabel">职责：</div>
+                <div class="descLabel">工作职责：</div>
                 <div class="itemValue">
                   <p class="descValue">
                     1、负责优化维护已上线的随手拍举报系统，并且根据不同城市的需求进行定制化开发
@@ -362,7 +366,7 @@
                 </div>
               </div>
               <p class="teachItem">
-                <span class="itemLabel">技术：</span>
+                <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
                   原生微信小程序框架、腾讯地图、刷脸认证、uni-app
                 </span>
@@ -372,20 +376,18 @@
             <div class="itemContent lastItem">
               <div class="oneline">
                 <p class="teachItem onelineItem">
-                  <span class="itemLabel">统一身份认证管理系统</span>
-                </p>
-                <p class="teachItem">
-                  <span class="itemLabel ccc">2016/08 ~ 2019/03</span>
+                  <span class="itemLabel">2016/08 ~ 2019/03</span>
+                  <span class="itemLabel ml-12">统一身份认证管理系统</span>
                 </p>
               </div>
               <div class="descItem">
-                <div class="descLabel">简介：</div>
+                <div class="descLabel">项目简介：</div>
                 <div class="itemValue">
                   统一身份认证管理系统主要用于用户身份自动化安全管理，针对多应用系统之间的统一认证、单点登录、账号申请、权限控制、人员调动、工作流审批等操作
                 </div>
               </div>
               <div class="descItem">
-                <div class="descLabel">职责：</div>
+                <div class="descLabel">工作职责：</div>
                 <div class="itemValue">
                   <p class="descValue">
                     1、前后端不分离，工作内容偏向于全栈开发，主要编写jsp、Java、html、css代码，熟悉后台ssm框架、数据库操作
@@ -399,7 +401,7 @@
                 </div>
               </div>
               <p class="teachItem">
-                <span class="itemLabel">技术：</span>
+                <span class="itemLabel">相关技术：</span>
                 <span class="itemValue">
                   java、jsp、layerui、js、ajax、jquery、html、css、vue、jwt、elementui、gulp、flyjs、easy_mock
                 </span>
@@ -608,11 +610,8 @@ button:hover {
 }
 .oneline {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
-  .ccc {
-    color: #999;
-  }
   .onelineItem {
     width: 50%;
   }
@@ -653,17 +652,24 @@ button:hover {
   }
   .itemWrap {
     padding-left: 24px;
+    &:nth-child(1),
+    &:nth-child(6) {
+      width: 17%;
+    }
+    &:nth-child(2),
+    &:nth-child(7) {
+      width: 13%;
+    }
+    &:nth-child(3),
+    &:nth-child(8) {
+      width: 14%;
+    }
+    &:nth-child(4),
+    &:nth-child(9) {
+      width: 23%;
+    }
     .itemLabel {
       font-weight: 500;
-    }
-    .itemValue {
-      &:not(:first-child){
-        padding-left: 12px;
-      }
-      &:not(:last-child){
-        padding-right: 12px;
-        border-right: 1px solid #ccc;
-      }
     }
   }
 }
@@ -708,7 +714,6 @@ button:hover {
   margin-top: 18px;
   .itemContent {
     padding-left: 24px;
-    padding-right: 24px;
     margin-bottom: 10px;
   }
 

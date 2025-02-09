@@ -4,13 +4,13 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "kim blog",
   description: "A VitePress Site",
-  base: "/blog/",
+  base: "/kim-blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "简历", link: "/resume/kim.html" },
       {
-        text: "宝藏",
+        text: "秘籍",
         link: "https://www.processon.com/view/link/5f35328c7d9c084c7090d7ee",
       },
     ],

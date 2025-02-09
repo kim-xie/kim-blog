@@ -4,7 +4,7 @@ layout: home
 ---
 
 <script setup>
-  import CustomComponent from './home.vue'
+  import CustomComponent from './components/home.vue'
   function clickEffect() {
     let balls = [];
     let longPressed = false;

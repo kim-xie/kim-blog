@@ -1,6 +1,6 @@
 <template>
   <div class="button-wrap">
-    <button type="button">点我</button>
+    <button type="button">长按</button>
   </div>
 </template>
   
@@ -13,6 +13,7 @@
   justify-content: center;
   align-content: center;
   margin: 500px auto;
+  color: #52616b;
 }
 button {
   user-select: none;
